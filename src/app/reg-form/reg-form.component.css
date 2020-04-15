@@ -1,0 +1,42 @@
+.div1{
+    width: 200px;
+    height: 1000px;
+    background-color :black;
+    margin-top: 10px;
+    margin-left: 10px;
+   padding: 10px;
+   float: left;
+}
+.div2{
+    height: auto;
+    width: auto;
+    background-color : lightslategray;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+   padding: 20px;
+}
+
+.div3{
+    margin-right: 20px;
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 220px;
+    background-color:whitesmoke;
+}
+.div4{
+    height:auto;
+    width: auto;
+    background-color:black;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    color: wheat;
+    padding: 5px;
+  
+}
+body{
+    background-color: cornsilk;
+}
