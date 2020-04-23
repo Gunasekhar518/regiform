@@ -9,8 +9,7 @@ import { FooterComponent } from './componentes/footer/footer.component';
 import { FormComponent } from './componentes/form/form.component';
 import { SidenavComponent } from './componentes/sidenav/sidenav.component';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
-import { Form1Component } from './components/form1/form1.component';
-import { LoginComponent } from './components/login/login.component';
+import { LoginComponent } from './componentes/login/login.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +19,6 @@ import { LoginComponent } from './components/login/login.component';
     FooterComponent,
     FormComponent,
     SidenavComponent,
-    Form1Component,
     LoginComponent
     
   ],
