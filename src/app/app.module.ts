@@ -10,6 +10,7 @@ import { FormComponent } from './componentes/form/form.component';
 import { SidenavComponent } from './componentes/sidenav/sidenav.component';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 import { LoginComponent } from './componentes/login/login.component';
+import { LoginformComponent } from './componentes/loginform/loginform.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { LoginComponent } from './componentes/login/login.component';
     FooterComponent,
     FormComponent,
     SidenavComponent,
-    LoginComponent
+    LoginComponent,
+    LoginformComponent
     
   ],
   imports: [

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { MockForm } from 'src/assets/mock-data';
 
 @Component({
   selector: 'app-reg-form',
@@ -11,5 +12,5 @@ export class RegFormComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+ 
 }
